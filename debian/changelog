@@ -1,3 +1,7 @@
+whois (15.5.10) unstable; urgency=medium
+
+  * updated 116.202.0.0 - 116.203.255.255 whois server.
+
 whois (5.5.10) unstable; urgency=medium
 
   * Updated the .lb TLD server.
